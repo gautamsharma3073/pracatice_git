@@ -1,9 +1,0 @@
-public class Multi {
-  public static void main(String[] args) {
-      int a = 10;
-      int b = 15;
-      int res = a * b;
-
-      System.out.println("Result : " + res);
-  }  
-}
